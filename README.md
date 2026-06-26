@@ -41,7 +41,7 @@ A responsive password management application built with React featuring:
 * Save website credentials
 * Edit and delete passwords
 * Password visibility toggle
-* Local Storage integration
+* Local Storage as well as MongoDB integration
 * Clean and modern UI
 
 ---
